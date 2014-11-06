@@ -1,0 +1,7 @@
+destination: public
+exclude: [Gemfile, Gemfile.lock, .rvmrc, public]
+
+title: Metcalf sent me!
+
+gems:
+  - jekyll-redirect-from
